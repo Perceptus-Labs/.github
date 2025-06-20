@@ -16,16 +16,6 @@ A Go-based perception SDK that collects environmental cues—video, audio, speec
 
 ---
 
-## 🧠 What We Build
-
-- Real-time robotic session orchestration
-- Multimodal perception & reasoning
-- Expandable tool-based agent systems
-- Long-term memory and self-correcting agents
-- Web-browsing, language modeling, and vision pipelines
-
----
-
 ## 🌐 Learn More
 
 - Website: [perceptuslabs.com](https://perceptuslabs.com)
